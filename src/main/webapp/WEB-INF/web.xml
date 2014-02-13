@@ -5,8 +5,8 @@
 	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
 	metadata-complete="true">
 
-	<display-name>WSExample</display-name>
-	<description>WS Example</description>
+	<display-name>ServiceInformation</display-name>
+	<description>Example / test web-service implementation in Java using Maven, JAX-RS, Spring and deployed on Tomcat</description>
 
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
